@@ -1,0 +1,12 @@
+{
+	"id": "arvel.lethalslug",
+	"name": "The Employee (dms skin)",
+	"version": "1.0.0",
+	"hide_version": true,
+	"authors": "Arvelmay",
+	"description": "A lethal company skin for your scugs! The thumbnail is made by Crite on discord.",
+	"requirements": ["dressmyslugcat"],
+	"requirements_names": ["Dress My Slugcat"],
+	"checksum_override_version": false,
+	"tags": ["Cosmetics"]
+}
